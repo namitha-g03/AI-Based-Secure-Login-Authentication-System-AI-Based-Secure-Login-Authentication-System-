@@ -1,0 +1,2 @@
+# AI-Based-Secure-Login-Authentication-System-AI-Based-Secure-Login-Authentication-System-
+Designed and developed an LPC2129-based secure authentication system using Embedded C, integrating EM-18 RFID reader and 4×4 Matrix Keypad for multi-factor user verification. Implemented UART communication, LCD interfacing, GPIO control, password validation, failed-attempt monitoring, and automated access authorization.
